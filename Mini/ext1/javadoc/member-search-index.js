@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"actionPerformed(ActionEvent)","h":"","u":"actionPerformed-java.awt.event.ActionEvent-"},{"l":"getAnswer()","h":"","u":""},{"l":"getQuestion()","h":"","u":""},{"l":"Gui()","h":"","u":""},{"l":"main(String[])","h":"","u":"main-java.lang.String:A-"},{"l":"MathTeacher()","h":"","u":""}]

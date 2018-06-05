@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"MathTeacher","h":"","u":""}]
